@@ -1,0 +1,6 @@
+matplotlib
+NumPy
+Imutils
+OpenCV
+Pyzbar
+PIL
